@@ -7,7 +7,8 @@
   {% include header.html %}
   {% if site.contact == "static" %}
   {% include about.html %}
-  
+  {% elsif site.contact == "disqus" %}
+  {% include contact_static.html %}
   
   
   
