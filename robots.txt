@@ -1,3 +1,4 @@
-Sitemap: https://getcontactbot.org/sitemap.xml
 User-agent: *
-Allow: 
+Allow: /
+
+Sitemap: https://getcontactbot.org/sitemap.xml
